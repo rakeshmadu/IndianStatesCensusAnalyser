@@ -22,8 +22,8 @@ public class CSVStateCensus {
 		return "CSVStateCensus [state=" + state + ", population=" + population + ", areaInSqKm=" + areaInSqKm
 				+ ", densityPerSqKm=" + densityPerSqKm + "]";
 	}
-
-
+	
+	
 	StateCensusAnalyser obj = new StateCensusAnalyser();
 
 }
