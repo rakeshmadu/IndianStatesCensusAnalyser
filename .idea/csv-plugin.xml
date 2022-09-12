@@ -10,7 +10,21 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="\src\main\resources\IndiaStateCensusDataWrong.csv">
+        <entry key="\src\main\resources\IndiaStateCensusDataWrongDelimiter.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\main\resources\IndiaStateCensusDataWrongHeader.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\main\resources\IndiaStateCensusDataWrongType.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
